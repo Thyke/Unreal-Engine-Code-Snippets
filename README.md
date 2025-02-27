@@ -5,8 +5,7 @@ A collection of reusable code snippets and utility classes for Unreal Engine dev
 ## Contents
 
 This repository includes various components such as:
-- Object pooling system for efficient actor management
-- Crosshair HUD implementation for shooter games
+- Basic Crosshair HUD implementation for shooter games
 - FootstepNotify for character animation
 - And other useful code snippets for common gameplay and systems implementation
 
